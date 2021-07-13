@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    text-align: center;
+    
+}
+.firstheader{
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.linkWrapper{
+    color: aquamarine;
+    font-size: 16px;
+    
+}
